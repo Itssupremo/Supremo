@@ -1,4 +1,3 @@
-# SUPREMO
 
 <!DOCTYPE html>
 <html lang="en">
